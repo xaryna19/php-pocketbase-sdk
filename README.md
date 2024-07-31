@@ -2,10 +2,11 @@
 
 ***
 ##### This Repository are in active Development
+Based on the PHP Pocketbase SDK jonathan-martz/pocketbase-php-sdk
 ***
 
 ``` bash
-composer require jonathan-martz/pocketbase-php-sdk
+composer require xaryna19/php-pocketbase-sdk
 ```
 
 ``` php
